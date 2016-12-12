@@ -3,7 +3,7 @@ logging:
     io:
       spring:
         cloud:
-          samples: INFO
+          samples: DEBUG
 
 fortune:
   fallbackFortune: Your future is unclear.
