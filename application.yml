@@ -6,7 +6,7 @@ logging:
           samples: DEBUG
 
 fortune:
-  fallbackFortune: Your future is unclear.
+  fallbackFortune: Today is your lucky day!
 
 eureka:
   instance:
